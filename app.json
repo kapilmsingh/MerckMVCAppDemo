@@ -1,0 +1,7 @@
+{
+    "name": "Merck Spring Mvc",
+    "description": "Spring mvc app",
+    "addons": [
+        "heroku-postgresql"
+    ]
+}
